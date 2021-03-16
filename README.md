@@ -1,0 +1,1 @@
+A simple python package for scraping data from IMDb. Currently under development. 
